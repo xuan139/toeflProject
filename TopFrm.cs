@@ -22,6 +22,7 @@ namespace Toefl
             frmWordExercise frm = new frmWordExercise();
 
             frm.Show();
+//test
         }
 
         private void btnReading_Click(object sender, EventArgs e)
